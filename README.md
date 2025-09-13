@@ -1,7 +1,6 @@
 # HTR using CRNN and CTC
 
 This is a **handwritten text recognition (HTR) pipeline** that operates on **scanned pages and PDFs** and applies the following:
-operations:
 * Detect words
 * Read words
 
